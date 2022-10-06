@@ -35,12 +35,6 @@ export default function Home() {
         <meta name="viewport" content="width-device-width, initial-scale=1" />
       </Head>
       <main className={styles.main}>
-        <Image
-          src="https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/299015157_402993851820347_7072809108916066867_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=E4wFbgXycZEAX9TsW6y&_nc_ht=scontent-waw1-1.xx&oh=00_AT-D6Gsql6G6xEYNG68B9u8deezGC5VW8fb8DIjQjzILuA&oe=63313B3E"
-          alt="IT Gra Logo"
-          width={300}
-          height={300}
-        />
         <h1 className={styles.title}>
           Mój pierwszy chatbot w <a href="https://itgra.pl/">ITGra!</a>
         </h1>
